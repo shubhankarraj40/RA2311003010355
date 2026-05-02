@@ -4,19 +4,19 @@ A responsive React/Next.js application for managing campus notifications with pr
 
 ## Features
 
-### 🎯 Priority Inbox
+### Priority Inbox
 - **Top-N Notifications**: Displays the most important notifications based on type and recency
 - **Configurable Limit**: Users can choose to show top 5, 10, 15, 20, or 25 notifications
 - **Priority Scoring**: Placement (3) > Result (2) > Event (1) with recency decay
 - **Visual Indicators**: Clear priority badges and highest priority highlighting
 
-### 📋 All Notifications
+### All Notifications
 - **Complete List**: View all campus notifications
 - **Advanced Filtering**: Filter by notification type (Event, Result, Placement)
 - **Pagination**: Navigate through large numbers of notifications
 - **Limit Control**: Choose how many notifications to display per page
 
-### 🎨 User Experience
+### User Experience
 - **Material UI**: Modern, responsive interface using Material Design
 - **View Status Tracking**: Distinguish between new and viewed notifications
 - **Real-time Updates**: Refresh functionality for latest notifications
@@ -224,3 +224,9 @@ For issues and questions:
 **Technology Stack**: Next.js 14, React 18, TypeScript, Material UI, Axios  
 **Target URL**: http://localhost:3000  
 **API Integration**: Evaluation Service with real-time data
+
+Screenshot
+<img width="1918" height="908" alt="Screenshot 2026-05-02 121828" src="https://github.com/user-attachments/assets/971dbf49-f141-4379-a700-0b7856a97b2c" />
+<img width="1919" height="899" alt="image" src="https://github.com/user-attachments/assets/3e71545f-ba3c-4e55-a3d9-9a89e5c956cf" />
+
+
