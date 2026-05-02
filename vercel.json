@@ -1,0 +1,11 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "out",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "regions": ["iad1"],
+  "env": {
+    "NEXT_PUBLIC_API_URL": "http://20.244.56.144/evaluation-service",
+    "NEXT_PUBLIC_ACCESS_CODE": "QkbpxH"
+  }
+}
